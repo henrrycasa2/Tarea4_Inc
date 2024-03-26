@@ -1,0 +1,111 @@
+h1
+{
+  color: red;
+}
+
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  .container
+  {
+    background-color: rgb(202, 226, 43);
+    width: 500px;
+    height: 200px;
+
+  }
+  .container-fluid
+  {
+    /*background-color: aqua;
+    margin: 5px;
+    width: 600px;
+    height: 200px;*/
+  }
+
+
+        body {
+            background-color: #f4f4f4; /* Fondo */
+            font-family: 'Arial', sans-serif; /* Tipografía */
+        }
+
+        header {
+            background-color: #2c3e50; /* Barra de navegación */
+        }
+
+        footer {
+            background-color: #34495e; /* Pie de página */
+        }
+
+        .card {
+            background-color: #ecf0f1; /* Fondo de la tarjeta */
+            border: 1px solid #bdc3c7; /* Borde de la tarjeta */
+            color: #2c3e50; /* Texto de la tarjeta */
+        }
